@@ -9,7 +9,7 @@ To help you figure out how to use `hungry` and `availableTime` inside your funct
 
 ```javascript
 
-funtion whatToDoForLunch(hungry, availableTime) {
+function whatToDoForLunch(hungry, availableTime) {
 console.log("hungry is" hungry);
 console.log("availableTime is", aavailableTime);
 }
