@@ -4,4 +4,4 @@
 
 ## Sumary
 
-This repository contains all of the notes taken by [Ahmed](URL) for the [Lighthouse Labs](URL )Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ahmed](https://github.com/ahmedMoussa2020) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Labs Web Development Bootcamp.
